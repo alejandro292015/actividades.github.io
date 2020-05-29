@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/alejandro292015/actividades.github.io/static/css/main.69eda509.chunk.css",
+    "main.js": "/alejandro292015/actividades.github.io/static/js/main.51cafba6.chunk.js",
+    "main.js.map": "/alejandro292015/actividades.github.io/static/js/main.51cafba6.chunk.js.map",
+    "runtime-main.js": "/alejandro292015/actividades.github.io/static/js/runtime-main.1431a8b8.js",
+    "runtime-main.js.map": "/alejandro292015/actividades.github.io/static/js/runtime-main.1431a8b8.js.map",
+    "static/js/2.816c014c.chunk.js": "/alejandro292015/actividades.github.io/static/js/2.816c014c.chunk.js",
+    "static/js/2.816c014c.chunk.js.map": "/alejandro292015/actividades.github.io/static/js/2.816c014c.chunk.js.map",
+    "index.html": "/alejandro292015/actividades.github.io/index.html",
+    "precache-manifest.354188bdf1519b6886f80b2a0c616e08.js": "/alejandro292015/actividades.github.io/precache-manifest.354188bdf1519b6886f80b2a0c616e08.js",
+    "service-worker.js": "/alejandro292015/actividades.github.io/service-worker.js",
+    "static/css/main.69eda509.chunk.css.map": "/alejandro292015/actividades.github.io/static/css/main.69eda509.chunk.css.map",
+    "static/js/2.816c014c.chunk.js.LICENSE.txt": "/alejandro292015/actividades.github.io/static/js/2.816c014c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1431a8b8.js",
+    "static/js/2.816c014c.chunk.js",
+    "static/css/main.69eda509.chunk.css",
+    "static/js/main.51cafba6.chunk.js"
+  ]
+}
